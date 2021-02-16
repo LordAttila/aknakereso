@@ -1,0 +1,3 @@
+d:\C#\sajat\Aknakereso\Aknakereso\obj\x86\Release\Aknakereso.Ablak1.resources
+d:\C#\sajat\Aknakereso\Aknakereso\obj\x86\Release\Aknakereso.Properties.Resources.resources
+d:\C#\sajat\Aknakereso\Aknakereso\obj\x86\Release\Aknakereso.csproj.GenerateResource.Cache

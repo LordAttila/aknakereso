@@ -1,0 +1,68 @@
+h:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\bin\Debug\Aknakereso.exe
+h:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\bin\Debug\Aknakereso.pdb
+h:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.csprojResolveAssemblyReference.cache
+h:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Beallitasok.resources
+h:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Fomenu.resources
+h:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Ablak1.resources
+h:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Properties.Resources.resources
+h:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.csproj.GenerateResource.Cache
+h:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.exe
+h:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.pdb
+g:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.exe
+g:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.pdb
+g:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\bin\Debug\Aknakereso.exe
+g:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\bin\Debug\Aknakereso.pdb
+g:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.csprojResolveAssemblyReference.cache
+g:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Beallitasok.resources
+g:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Properties.Resources.resources
+g:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.csproj.GenerateResource.Cache
+g:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.JatekAblak.resources
+g:\C#\sajat\2015.02.03\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Fomenu.resources
+g:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.exe
+g:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.pdb
+g:\Aknakereso\Aknakereso\Aknakereso\bin\Debug\Aknakereso.exe
+g:\Aknakereso\Aknakereso\Aknakereso\bin\Debug\Aknakereso.pdb
+g:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.csprojResolveAssemblyReference.cache
+g:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Beallitasok.resources
+g:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Fomenu.resources
+g:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.JatekAblak.resources
+g:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Properties.Resources.resources
+g:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.csproj.GenerateResource.Cache
+d:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.exe
+d:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.pdb
+d:\Aknakereso\Aknakereso\Aknakereso\bin\Debug\Aknakereso.exe
+d:\Aknakereso\Aknakereso\Aknakereso\bin\Debug\Aknakereso.pdb
+d:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.csprojResolveAssemblyReference.cache
+d:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Beallitasok.resources
+d:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Fomenu.resources
+d:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.JatekAblak.resources
+d:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Properties.Resources.resources
+d:\Aknakereso\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.csproj.GenerateResource.Cache
+z:\aknakereso szetbarmolhato XD\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.exe
+z:\aknakereso szetbarmolhato XD\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.pdb
+z:\aknakereso szetbarmolhato XD\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.csprojResolveAssemblyReference.cache
+z:\aknakereso szetbarmolhato XD\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Beallitasok.resources
+z:\aknakereso szetbarmolhato XD\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Fomenu.resources
+z:\aknakereso szetbarmolhato XD\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.JatekAblak.resources
+z:\aknakereso szetbarmolhato XD\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.Properties.Resources.resources
+z:\aknakereso szetbarmolhato XD\Aknakereso\Aknakereso\obj\x86\Debug\Aknakereso.csproj.GenerateResource.Cache
+f:\Aknakereso3\Aknakereso\obj\x86\Debug\Aknakereso.exe
+f:\Aknakereso3\Aknakereso\obj\x86\Debug\Aknakereso.csprojResolveAssemblyReference.cache
+f:\Aknakereso3\Aknakereso\obj\x86\Debug\Aknakereso.Beallitasok.resources
+f:\Aknakereso3\Aknakereso\obj\x86\Debug\Aknakereso.Fomenu.resources
+f:\Aknakereso3\Aknakereso\obj\x86\Debug\Aknakereso.JatekAblak.resources
+f:\Aknakereso3\Aknakereso\obj\x86\Debug\Aknakereso.Properties.Resources.resources
+f:\Aknakereso3\Aknakereso\obj\x86\Debug\Aknakereso.csproj.GenerateResource.Cache
+f:\Aknakereso3\Aknakereso\bin\Debug\Aknakereso.exe
+f:\Aknakereso3\Aknakereso\bin\Debug\Aknakereso.pdb
+f:\Aknakereso3\Aknakereso\obj\x86\Debug\Aknakereso.pdb
+z:\aknakereso szetbarmolhato XD\Aknakereso\obj\x86\Debug\Aknakereso.exe
+z:\aknakereso szetbarmolhato XD\Aknakereso\obj\x86\Debug\Aknakereso.pdb
+z:\aknakereso szetbarmolhato XD\Aknakereso\bin\Debug\Aknakereso.exe
+z:\aknakereso szetbarmolhato XD\Aknakereso\bin\Debug\Aknakereso.pdb
+z:\aknakereso szetbarmolhato XD\Aknakereso\obj\x86\Debug\Aknakereso.csprojResolveAssemblyReference.cache
+z:\aknakereso szetbarmolhato XD\Aknakereso\obj\x86\Debug\Aknakereso.Beallitasok.resources
+z:\aknakereso szetbarmolhato XD\Aknakereso\obj\x86\Debug\Aknakereso.Fomenu.resources
+z:\aknakereso szetbarmolhato XD\Aknakereso\obj\x86\Debug\Aknakereso.JatekAblak.resources
+z:\aknakereso szetbarmolhato XD\Aknakereso\obj\x86\Debug\Aknakereso.Properties.Resources.resources
+z:\aknakereso szetbarmolhato XD\Aknakereso\obj\x86\Debug\Aknakereso.csproj.GenerateResource.Cache
